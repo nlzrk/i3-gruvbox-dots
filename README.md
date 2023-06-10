@@ -2,6 +2,10 @@
 
 Welcome to the repository for my i3 Gruvbox dotfiles! This collection of configuration files and scripts is designed to customize and enhance the i3 window manager with the popular Gruvbox color scheme. Whether you're new to i3 or a seasoned user, these dotfiles provide a great starting point for creating a visually appealing and efficient workflow. 
 
+![gruvi3](https://github.com/Nolzark-Dev/i3-gruvbox-dots/assets/89377971/bfb4b1d7-de95-4df8-8126-5e4acce8cb81)
+
+![gruvlady](https://github.com/Nolzark-Dev/i3-gruvbox-dots/assets/89377971/b532c69e-06a0-417b-ae63-113472815a7a)
+
 ## Getting Started
 There are a few dependencies you'll need to replicate the images shown above:
 - Picom
