@@ -12,6 +12,7 @@ There are a few dependencies you'll need to replicate the images shown above:
 - httpie
 - dmenu
 - rofi 
+- feh
 
 Disclaimer: The polybar theme and scripts used can be found at: https://github.com/adi1090x/polybar-themes , please follow their installation guide to replicate this repo's desktop
 
