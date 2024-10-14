@@ -14,8 +14,6 @@ There are a few dependencies you'll need to replicate the images shown above:
 - polybar
 - alacritty
 - httpie
-- dmenu
-- rofi 
 - feh
 
 Disclaimer: The polybar theme and scripts used can be found at: https://github.com/adi1090x/polybar-themes , the polybar dotfiles contained in this repo are the latest up to 14/10/24
