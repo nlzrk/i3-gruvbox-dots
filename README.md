@@ -20,7 +20,7 @@ There are a few dependencies you'll need to replicate the images shown above:
 
 Disclaimer: The polybar theme and scripts used can be found at: https://github.com/adi1090x/polybar-themes , the polybar dotfiles contained in this repo are the latest up to 14/10/24
 
-## Nerd Fonts
+## Nerd Fonts (not required)
 To install Nerd Fonts for both Polybar and i3, follow this command list:
 ```
 # Make sure you're in .config
